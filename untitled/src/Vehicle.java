@@ -1,5 +1,3 @@
-package DecLearn;
-
 public class Vehicle {
 
     private String name;

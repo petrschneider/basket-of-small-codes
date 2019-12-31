@@ -1,5 +1,3 @@
-package DecLearn;
-
 public class PlayingCat {
 
     public static boolean isCatPlaying (boolean summer, int temperature){

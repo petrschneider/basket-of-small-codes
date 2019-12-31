@@ -1,5 +1,3 @@
-package DecLearn;
-
 public class Outlander extends Car{
     private int roadServiceMonths;
 

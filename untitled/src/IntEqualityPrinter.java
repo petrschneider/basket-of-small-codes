@@ -1,5 +1,3 @@
-package DecLearn;
-
 public class IntEqualityPrinter {
 
     public static void printEqual (int a, int b, int c){

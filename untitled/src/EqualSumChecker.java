@@ -1,5 +1,3 @@
-package DecLearn;
-
 public class EqualSumChecker {
     public static boolean hasEqualSum (int pam1, int pam2, int pam3){
 

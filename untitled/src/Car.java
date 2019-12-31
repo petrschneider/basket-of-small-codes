@@ -1,6 +1,4 @@
-package DecLearn;
-
-public class Car extends Vehicle {
+public class Car extends DecLearn.Vehicle {
 
     private int wheels;
     private int doors;

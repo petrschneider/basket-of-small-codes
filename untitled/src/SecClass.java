@@ -1,7 +1,3 @@
-package DecLearn;
-
-import petr.java.learn.Dog;
-
 public class SecClass {
     private String name;
 

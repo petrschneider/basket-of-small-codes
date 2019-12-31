@@ -1,5 +1,3 @@
-package DecLearn;
-
 public class TeenNumberChecker {
 
     public static boolean hasTeen (int pam1, int pam2, int pam3){

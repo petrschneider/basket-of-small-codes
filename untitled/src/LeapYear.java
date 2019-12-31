@@ -1,5 +1,3 @@
-package DecLearn;
-
 public class LeapYear {
 
     public static boolean isLeapYear(int year) {
