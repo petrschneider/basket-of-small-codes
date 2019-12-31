@@ -6,13 +6,17 @@ public class LeapYear {
 
         if (year < 1 || year > 9999) {
             leap = false;
+            System.out.println("No, it isnt");
         } else if ((year%4==0) && (year%100 != 0)){
             leap=true;
+            System.out.println("Yes, it is");
         } else if ((year%100==0) && (year%400==0)) {
             leap=true;
+            System.out.println("Yes, it is");
         }
         else {
             leap=false;
+            System.out.println("No, it isnt");
         }
     return leap;
         }

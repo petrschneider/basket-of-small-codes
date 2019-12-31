@@ -1,4 +1,6 @@
-public class Car extends DecLearn.Vehicle {
+
+
+public class Car extends Vehicle {
 
     private int wheels;
     private int doors;
